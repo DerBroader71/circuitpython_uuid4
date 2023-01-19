@@ -14,8 +14,9 @@ Please ensure all dependencies are available on the CircuitPython filesystem.
 Usage Example
 =============
 
-.. code-block:: python
+```python
 
     import circuitpython_uuid4 as Uuid
     uuid = Uuid.generate_uuid_v4()
     print(uuid)
+```
