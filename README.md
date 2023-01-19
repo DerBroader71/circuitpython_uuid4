@@ -16,5 +16,6 @@ Usage Example
 
 .. code-block:: python
 
-    import circuitpython_uuid4 as uuid
-    uuid = uuid.generate_uuid_v4()
+    import circuitpython_uuid4 as Uuid
+    uuid = Uuid.generate_uuid_v4()
+    print(uuid)
