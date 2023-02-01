@@ -26,6 +26,7 @@
 import os
 import struct
 
+
 def generate_uuid_v4():
     """Function to be called that generates UUIDv4."""
     # Get random bytes from the operating system
