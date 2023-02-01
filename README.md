@@ -20,3 +20,7 @@ Usage Example
     uuid = Uuid.generate_uuid_v4()
     print(uuid)
 ```
+Contributing
+============
+
+Contributions are welcome! Please read our [Code of Conduct](https://github.com/adafruit/Adafruit_CircuitPython_example/blob/master/CODE_OF_CONDUCT.md) before contributing to help this project stay welcoming.
